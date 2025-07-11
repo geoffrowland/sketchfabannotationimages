@@ -2,14 +2,6 @@
 
 Images for Sketchfab Annotations
 
-Images
+https://support.fab.com/s/article/Using-Markdown?language=en_US#:~:text=Sketchfab%20supports%20Markdown%20in%20model%20descriptions%20and%20Annotations.&text=You%20can%20make%20an%20image%20that%20is,by%20combining%20the%20link%20code%20with%20the
 
-![](https://website.com/path/to/img.jpg)
 
-Will produce
-
-Sketchfab logo
-
-Optionally, you can add alt text and a title (important for SEO and accessibility), like this:
-
-![Alt text](https://website.com/path/to/img.jpg "Title")
